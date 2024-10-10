@@ -8,3 +8,7 @@
 - Gradient Descent
 - Back Propagation
 - Linear Regression
+- Logistic Regression
+- Multiple Dimension Input
+- Dataset and DataLoader
+- Softmax Classifier
