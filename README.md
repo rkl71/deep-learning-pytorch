@@ -12,3 +12,5 @@
 - Multiple Dimension Input
 - Dataset and DataLoader
 - Softmax Classifier
+- Convolutional Neural Networks
+- Recurrent Neural Networks
